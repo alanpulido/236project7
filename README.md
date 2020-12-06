@@ -3,7 +3,7 @@ I made the screen bigger.
 
 This program keeps score well.
 
-I added to extra animals that move.
+I added two extra animals that move.
 
 The sound is now 'missed' when the hand hits the air.
 
